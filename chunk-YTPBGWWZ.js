@@ -1,0 +1,1 @@
+import{Ca as s,Da as a,N as n,ya as r,za as i}from"./chunk-3TNAH746.js";var p=(()=>{let t=class t{};t.\u0275fac=function(o){return new(o||t)},t.\u0275cmp=n({type:t,selectors:[["app-test"]],standalone:!0,features:[a],decls:2,vars:0,template:function(o,c){o&1&&(r(0,"p"),s(1,"test works!"),i())}});let e=t;return e})();var u=[{path:"",component:p}];export{u as routes};
